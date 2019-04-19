@@ -7,7 +7,7 @@ SetWorkingDir %A_ScriptDir%
 SetTitleMatchMode, 2
 #IfWinActive r5apex.exe
 SetBatchLines -1						;removes default 10ms delay between lines
-#MaxHotkeysPerInterval 99000000
+#MaxHotkeysPerInterval 99000000asdasd
 #HotkeyInterval 99000000
 #KeyHistory 0
 ListLines Off
